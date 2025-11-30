@@ -1,16 +1,12 @@
-## Hi there 👋
+## Python projects I'm working on
 
-<!--
-**Avasam/Avasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on more projects than I can pin (and I don't own all of them). So this serves as an easy bookmark to see what I'm involved in, and for me to reference when updating tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Toufool/AutoSplit](https://github.com/Toufool/AutoSplit) (sole maintainer)
+- [Avasam/typed-D3DShot](https://github.com/Avasam/typed-D3DShot) (fork owner)
+- [python/typeshed](https://github.com/python/typeshed) (maintainer)
+- [pypa/setuptools](https://github.com/pypa/setuptools) (contributor)
+- [pypa/distutils](https://github.com/pypa/distutils) (contributor)
+- [microsoft/python-type-stubs](https://github.com/microsoft/python-type-stubs) (contributor)
+- [PTLE Python Scripts for Dolphin](https://github.com/Avasam/ptle-tools/tree/main/Dolphin%20scripts) (owner)
+- [NoReset Website](https://github.com/noresetSpeedrun/) (private repo)
