@@ -8,5 +8,5 @@ I'm working on more projects than I can pin (and I don't own all of them). So th
 - [pypa/setuptools](https://github.com/pypa/setuptools) (contributor)
 - [pypa/distutils](https://github.com/pypa/distutils) (contributor)
 - [microsoft/python-type-stubs](https://github.com/microsoft/python-type-stubs) (contributor)
-- [PTLE Python Scripts for Dolphin](https://github.com/Avasam/ptle-tools/tree/main/Dolphin%20scripts) (owner)
+- [Pitfall: The Lost Expedition, Scripts for Dolphin](https://github.com/Avasam/ptle-tools/tree/main/Dolphin%20scripts) (owner)
 - [NoReset Website](https://github.com/noresetSpeedrun/) (private repo)
