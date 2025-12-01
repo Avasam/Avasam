@@ -10,3 +10,5 @@ I'm working on more projects than I can pin (and I don't own all of them). So th
 - [microsoft/python-type-stubs](https://github.com/microsoft/python-type-stubs) (contributor)
 - [Pitfall: The Lost Expedition, Scripts for Dolphin](https://github.com/Avasam/ptle-tools/tree/main/Dolphin%20scripts) (owner)
 - [NoReset Website](https://github.com/noresetSpeedrun/) (private repo)
+- [Many jaraco projects](https://github.com/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen+author%3A%40me+archived%3Afalse+user%3Ajaraco) (static typing contributions)
+- [All the Python projects forks I sitll have open](https://github.com/Avasam?tab=repositories&q=&type=fork&language=python&sort=)
