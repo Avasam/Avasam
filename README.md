@@ -5,6 +5,7 @@ I'm working on more projects than I can pin (and I don't own all of them). So th
 - [Toufool/AutoSplit](https://github.com/Toufool/AutoSplit) (sole maintainer)
 - [Avasam/typed-D3DShot](https://github.com/Avasam/typed-D3DShot) (fork owner)
 - [python/typeshed](https://github.com/python/typeshed) (maintainer)
+- [mhammond/pywin32](https://github.com/mhammond/pywin32) (maintainer)
 - [pypa/setuptools](https://github.com/pypa/setuptools) (contributor)
 - [pypa/distutils](https://github.com/pypa/distutils) (contributor)
 - [microsoft/python-type-stubs](https://github.com/microsoft/python-type-stubs) (contributor)
